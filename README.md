@@ -22,7 +22,7 @@ static-file/
 ### Noto Sans SC
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fpan-my-github/static-file/fonts/noto-sans-sc/noto-sans-sc.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hepingmogul/static-file@main/fonts/noto-sans-sc/noto-sans-sc.css">
 <style>
   body {
     font-family: 'Noto Sans SC', sans-serif;
@@ -33,7 +33,7 @@ static-file/
 ### PingFang SC
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fpan-my-github/static-file/fonts/ping-fang/pingfang.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hepingmogul/static-file@main/fonts/ping-fang/pingfang.css">
 <style>
   body {
     font-family: 'PingFang SC', sans-serif;
@@ -46,7 +46,7 @@ static-file/
 直接引用单个字体文件，或引用已封装好的 CSS：
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hepingmogul/fonts@main/open-sans-woff2/open-sans-woff2.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/hepingmogul/static-file@main/fonts/open-sans-woff2/open-sans-woff2.css">
 <style>
   body {
     font-family: 'Open Sans', sans-serif;
